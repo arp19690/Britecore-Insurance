@@ -1,0 +1,7 @@
+.idea
+*.pyc
+__pycache__
+
+/venv
+/insurance/db.sqlite3
+migrations
